@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "49c2acd2287899c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9deb20a85c489eca",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dijkstra.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ae8dc8b0932ffa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d33174cae18325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d648ad4e7155fe61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f55f7361288cd5c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae315d8099eaaff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a7c5b70ee914cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b51e085c3073241",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dijkstra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Dijkstra.md",
+    "Graphs.md",
+    "Sweepline.md",
+    "USACO FEB17-visitfj.md",
+    "USACO MAR13-hillwalk.md",
+    "USACO open13-gravity.md",
+    "USACO JAN15-cowroute.md",
+    "SCC.md",
+    "Untitled.md",
+    "sweepline.md"
+  ]
+}
