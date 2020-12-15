@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dijkstra.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dijkstra.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Dijkstra.md",
-    "Graphs.md",
-    "Sweepline.md",
-    "USACO FEB17-visitfj.md",
-    "USACO MAR13-hillwalk.md",
-    "USACO open13-gravity.md",
-    "USACO JAN15-cowroute.md",
-    "SCC.md",
     "Untitled.md",
-    "sweepline.md"
+    "Problems/USACO JAN15-skicourse.md",
+    "Algorithms/Graphs.md",
+    "Algorithms/DP.md",
+    "USACO JAN15-skicourse.md",
+    "USACO JAN15-cowroute.md",
+    "Algorithms/BFS.md",
+    "USACO FEB17-visitfj.md",
+    "Graphs.md",
+    "Dijkstra.md"
   ]
 }
