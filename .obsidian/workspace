@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Algorithms/geo/Geometry.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithms/geo/Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +87,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "Problems/USACO JAN15-skicourse.md",
     "Algorithms/Graphs.md",
     "Algorithms/DP.md",
-    "USACO JAN15-skicourse.md",
-    "USACO JAN15-cowroute.md",
-    "Algorithms/BFS.md",
-    "USACO FEB17-visitfj.md",
+    "Problems/Untitled.md",
+    "Dijkstra.md",
     "Graphs.md",
-    "Dijkstra.md"
+    "Sweepline.md",
+    "USACO FEB17-visitfj.md",
+    "USACO MAR13-hillwalk.md",
+    "USACO open13-gravity.md"
   ]
 }
