@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithms/geo/Geometry.md",
+            "file": "Problems/CSES - Empty String.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/geo/Geometry.md",
+                "file": "Problems/CSES - Empty String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Problems/Untitled.md",
+    "Algorithms/geo/Geometry.md",
     "Untitled.md",
     "Algorithms/Graphs.md",
     "Algorithms/DP.md",
-    "Problems/Untitled.md",
     "Dijkstra.md",
     "Graphs.md",
     "Sweepline.md",
     "USACO FEB17-visitfj.md",
-    "USACO MAR13-hillwalk.md",
-    "USACO open13-gravity.md"
+    "USACO MAR13-hillwalk.md"
   ]
 }
