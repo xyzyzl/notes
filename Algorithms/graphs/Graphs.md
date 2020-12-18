@@ -3,7 +3,8 @@ An umbrella term for anything with nodes and vertices.
 - Shortest path algorithms
 	- [[Dijkstra]]
 	- MST
-- Graph Searching
+- Graph Sorting and Searching
+	- [[Topological Sorting]]
 	- DFS
 	- [[BFS]]
 - Tree algorithms

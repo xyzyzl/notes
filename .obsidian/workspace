@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Algorithms/graphs/Topological Sorting.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithms/graphs/Topological Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Algorithms/graphs/Topological Sorting.md",
+    "Problems/Untitled.md",
     "Algorithms/graphs/Graphs.md",
+    "Algorithms/graphs/SCC.md",
+    "Algorithms/graphs/Untitled.md",
     "Algorithms/graphs/BFS.md",
     "Algorithms/graphs/Dijkstra.md",
     "Algorithms/rangequeries/BIT.md",
     "Algorithms/dp/Range DP.md",
-    "Algorithms/dp/DP.md",
-    "Algorithms/dp/Untitled.md",
-    "Algorithms/graphs/dp/DP.md",
-    "Problems/Untitled.md",
-    "Problems/CSES - Distinct Values Queries.md"
+    "Algorithms/dp/DP.md"
   ]
 }
