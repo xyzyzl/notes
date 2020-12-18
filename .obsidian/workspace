@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Problems/CSES - Empty String.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/CSES - Empty String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Algorithms/graphs/Graphs.md",
+    "Algorithms/graphs/BFS.md",
+    "Algorithms/graphs/Dijkstra.md",
+    "Algorithms/rangequeries/BIT.md",
+    "Algorithms/dp/Range DP.md",
+    "Algorithms/dp/DP.md",
+    "Algorithms/dp/Untitled.md",
+    "Algorithms/graphs/dp/DP.md",
     "Problems/Untitled.md",
-    "Algorithms/geo/Geometry.md",
-    "Untitled.md",
-    "Algorithms/Graphs.md",
-    "Algorithms/DP.md",
-    "Dijkstra.md",
-    "Graphs.md",
-    "Sweepline.md",
-    "USACO FEB17-visitfj.md",
-    "USACO MAR13-hillwalk.md"
+    "Problems/CSES - Distinct Values Queries.md"
   ]
 }

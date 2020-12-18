@@ -11,6 +11,6 @@ An umbrella term for anything with nodes and vertices.
 	- DSU
 	- [[SCC]]
 - Kinda related?
-	- [[DP]]
-		- All DP states are nodes in DAGs
-		- Tree DP in specific
+	- ~~DP~~
+		- ~~All DP states are nodes in DAGs~~
+		- Tree DP
