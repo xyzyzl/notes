@@ -1,4 +1,5 @@
 # Empty String
+#DP #Range-DP 
 - Have a string $S$ of $n$ characters
 - Can remove a pair of adjacent characters $S_i, S_j$ if $S_i=S_j$.
 ## Solution

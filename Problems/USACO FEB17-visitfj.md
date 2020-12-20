@@ -1,4 +1,5 @@
 # Problem Statement
+#Graphs #BFS
 - $N \times N$ grid
 - Edge between $(i, j)$ and four cardinally adj points if they exist, has cost $T$
 - Each element of the grid has a cost $gd_{i,j}$, but only add cost on every third node reached

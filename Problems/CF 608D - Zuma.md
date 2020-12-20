@@ -1,4 +1,5 @@
 # CF 608D-Zuma
+#DP #Range-DP
 ## Problem statement
 - Have an array $a$ and want to erase every element
 - Can only erase subarrays that are palindromes.

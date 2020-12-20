@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algorithms/graphs/Topological Sorting.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Graphs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/graphs/Topological Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Algorithms/graphs/Topological Sorting.md",
+    "Problems/CF 608D - Zuma.md",
+    "Algorithms/dp/DP.md",
     "Problems/Untitled.md",
+    "Problems/USACO FEB20-deleg.md",
     "Algorithms/graphs/Graphs.md",
-    "Algorithms/graphs/SCC.md",
-    "Algorithms/graphs/Untitled.md",
-    "Algorithms/graphs/BFS.md",
-    "Algorithms/graphs/Dijkstra.md",
-    "Algorithms/rangequeries/BIT.md",
+    "Algorithms/geo/Sweepline.md",
     "Algorithms/dp/Range DP.md",
-    "Algorithms/dp/DP.md"
+    "Problems/USACO FEB20-help.md",
+    "Problems/USACO OPEN20-fcolor.md",
+    "Problems/USACO OPEN19-walk.md"
   ]
 }

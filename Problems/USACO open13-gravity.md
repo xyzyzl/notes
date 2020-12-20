@@ -1,3 +1,4 @@
+#Graphs #BFS
 # Problem Details
 - Start at point $C$, want to get to point $D$
 - Everything is on a $N \times M$ grid, with `#` signifying a solid block and `.` an empty block

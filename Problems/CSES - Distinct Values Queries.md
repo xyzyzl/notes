@@ -1,4 +1,5 @@
 # CSES - Distinct Values Queries
+#BIT
 ## Problem Statement
 - Given an array of size $n \leq 200000$, find the number of distinct values in each range $[a,b]$ for $q \leq 200000$ queries.
 	- The values can be as large as $10^9$.

@@ -1,4 +1,5 @@
 # Problem Statement
+#DP #Range-DP 
 - Farmer John has a string. In one step add a prefix or suffix to the front or the back of the current string
 	- `ABC` can become `AABC` or `ABCC`.
 	- Find the number of ways to create the given string with 1 or more steps

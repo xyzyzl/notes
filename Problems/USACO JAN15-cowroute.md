@@ -1,3 +1,5 @@
+# USACO JAN15-cowroute
+#Graphs #Dijkstra
 ## Problem Statement
 - $N \leq 1000$ series of edges, each following a directed route with $m \leq 100$ nodes and with a collective cost $c$
 1. Find shortest path between nodes $A$ and $B$

@@ -1,4 +1,5 @@
 # Problem Statement
+#Geo #Sweepline
 - N hills, each line segment (x1, y1) -> (x2, y2)
 # Notes
 - start at (0,0) on first hill, continue walking until reach (x2,y2). Then fall off onto

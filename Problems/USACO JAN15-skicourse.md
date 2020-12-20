@@ -1,3 +1,4 @@
+#DP #Binary-Search 
 # Problem Statement
 - $M \times N$ grid
 - Find the largest $B$ such that the pattern can be drawn with $B \times B$ overlapping squares.
