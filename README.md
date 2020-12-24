@@ -1,2 +1,2 @@
 # Personal Notes
-Personal notes for questions that I solved.
+Personal notes for math and CP questions that I solved.

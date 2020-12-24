@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Math/Handouts/DJ 2015 AIME Practice Set.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Handouts/DJ 2015 AIME Practice Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Problems/CF 608D - Zuma.md",
-    "Algorithms/dp/DP.md",
-    "Problems/Untitled.md",
-    "Problems/USACO FEB20-deleg.md",
-    "Algorithms/graphs/Graphs.md",
-    "Algorithms/geo/Sweepline.md",
-    "Algorithms/dp/Range DP.md",
-    "Problems/USACO FEB20-help.md",
-    "Problems/USACO OPEN20-fcolor.md",
-    "Problems/USACO OPEN19-walk.md"
+    "Math/Handouts/DJ 2015 AIME Practice Set.md",
+    "CP/Contests/Untitled.md",
+    "CP/Algorithms/Untitled.md",
+    "Math/CP is applied math/Untitled.md",
+    "Math/README.md",
+    "Math/Handouts Master List.md",
+    "Math/Handouts/Untitled.md",
+    "Math/Untitled.md",
+    "README.md",
+    "Problems/Untitled.md"
   ]
 }
