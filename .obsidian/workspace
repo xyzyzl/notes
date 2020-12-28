@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/Handouts/DJ 2015 AIME Practice Set.md",
+            "file": "CP/Contests/USACO DEC20 Gold.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Handouts/DJ 2015 AIME Practice Set.md",
+                "file": "CP/Contests/USACO DEC20 Gold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Math/Handouts/DJ 2015 AIME Practice Set.md",
-    "CP/Contests/Untitled.md",
-    "CP/Algorithms/Untitled.md",
-    "Math/CP is applied math/Untitled.md",
-    "Math/README.md",
-    "Math/Handouts Master List.md",
-    "Math/Handouts/Untitled.md",
-    "Math/Untitled.md",
+    "CP/Contests/USACO DEC20 Gold.md",
+    "CP/CP Info.md",
+    "CP/Algorithms/strings/Untitled.md",
+    "CP/Algorithms/graphs/DSU.md",
+    "CP/Algorithms/graphs/Graphs.md",
+    "CP/Problems/Untitled.md",
+    "CP/Problems/idk source 4 (Balance Parentheses).md",
     "README.md",
-    "Problems/Untitled.md"
+    "CP/Algorithms/dp/Range DP.md",
+    "CP/Problems/idk source 3 (K Largest Segments).md"
   ]
 }

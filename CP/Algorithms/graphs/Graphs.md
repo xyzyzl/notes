@@ -8,6 +8,7 @@ An umbrella term for anything with nodes and vertices.
 	- DFS
 	- [[BFS]]
 - Tree algorithms
+	- [[Trie]]
 - Connected components
 	- [[DSU]]
 	- [[SCC]]

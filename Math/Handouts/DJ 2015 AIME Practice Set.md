@@ -17,7 +17,9 @@ https://davidaltizio.web.illinois.edu/Compilation_of_AIME_like_problems.pdf
 8. Turned into finding the number of valid fractional parts for each integral part, which then just became some simple summation. Probable AIME 11 or 12.
 	1. Hardest part was finding which values worked and which didn't but this turned into a nice pattern.
 9. Hard, required a lot of algebraic manipulation and quite a few observations between equalities. First noted that $b=c \implies a=d$, and then that $ad+bc = 2008$. Tried bashing at a few stages but it didn't work, but the final result was quite nice. Needed to think from multiple angles in order to get what was needed to find the answer. Most likely AIME 13. 
-10. Haven't done yet, will fill in when I have
+10. Kind of didn't actually do the required work to get the answer ~~but that will suffice~~. Started off with a bit of algebraic manipulation involving mainly the first equation into the second equation. Then the question turned into finding the largest value of $a$ given that $(a+b)(a+c)(a+d)$. Initially felt around and used AM-GM before realizing that it gave the *minimum* value of $a$ of $\dfrac{3 \sqrt[3]{528}}{2}$. This was when $a+b=a+c=a+d$. However, we could set $a+b >> a+c = a+d$. Minimizing $a+c=a+d$, we found that $a+b = 528 \implies a = 530/2 = 265$ which turned out to be right.
+	1. The actual proof is pretty clever, basically using $(a+b-1)(a+c-1) \geq 0 \implies (a+b)(a+c) + 1 \geq 2a+b+c$. Repeating this for $(a+b)(a+c)$ and $(a+d)$ gives $3a+b+c+d \leq (a+b)(a+c)(a+d) + 2$, so $a \;eq \frac{(a+b)(a+c)(a+d)+2}{2} = \frac{530}{2} = 265$. $\blacksquare$
+	2. Can't gauge the difficulty since I'm bad but is probably 11-15 somewhere.
 ## Combo
 1. Complementary counting; there's a $\frac{3}{4}$ probability for each topping that the two pizzas don't both have this topping. The answer is $1-(\frac{3}{4})^4$. Probably AIME 1.
 2. Just casework on the transposition type. Make sure to count $1 \to 2 \to 3 / 3 \to 2 \to 1$ cycles separately because going backwards or forwards actually makes a difference. Probably AIME 3 or 4 level.
@@ -28,6 +30,9 @@ https://davidaltizio.web.illinois.edu/Compilation_of_AIME_like_problems.pdf
 7. The idea is simple enough, that each configuration of the top row and leftmost column leads to one valid array. Thus, there are $2013^{4025}$ different arrays. The hardest part in my opinion was finding this value modulo 1000. Definitely AIME 12-ish.
 	1. The idea is to first use Euler's totient theorem to simplify the $2013^{4025}$ to just $2013^{25} \pmod{1000}$. Next, hand calculate to find $13^{25} \equiv 68 \pmod{125}$ and $13^{25} \equiv 5 \pmod 8$. We then find that $-78 \cdot 8 + 5 \cdot 125 = 1$, so from Chinese Remainder Theorem we have that the answer is $5 + (68-5) \cdot (-78) \cdot 8 \equiv \boxed{693} \pmod{1000}$.
 	2. This part was hard because I didn't really know to use Euler's totient theorem to simplify the value. Could have also used binomial theorem in the second step.
-8. Haven't done yet, will fill in when I have
-9. Haven't done yet, will fill in when I have
+8. Expected value is the main concept here, but that was quite easy to find out. Just $\frac{\binom{1000}{k} \cdot k(1000-k)}{2^{1000}}$. The real hard part is the algebra needed to get to the final answer
+	1. That required expanding the binomial coefficient, but ended up pretty nice and not requiring too much calculation
+	2. Probably AIME 11.
+9. The central observation is not that hard to find, that all numbers divisible by 3 need to be in different sets. The ensuing casework isn't hard to find but is difficult to execute. Probably AIME 13-15.
+	1. Need to count all possible cases and check if they're supposed to be ordered or not.
 10. Haven't done yet, will fill in when I have

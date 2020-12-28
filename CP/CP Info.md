@@ -1,0 +1,12 @@
+Reviewing CP algorithms and questions for when I totally forget everything.
+- Algorithms:
+	- [[Graphs]]
+	- [[DP]]
+	- [[Geometry]]
+	- [[Brute Force]]
+	- [[Greedy Algorithms]]
+	- [[Math questions in CP]]
+	- [[String Processing]]
+	- Trees
+		- [[BIT]]
+- [[Contests List]]
