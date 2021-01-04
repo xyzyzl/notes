@@ -6,4 +6,5 @@
 - [[USACO OPEN20-exercise]]
 - [[idk source 2 (K kings)]]
 - [[idk source 3 (K Largest Segments)]]
+- [[CodeChef LEBLOCKS]]
 - Check [[Range DP]]

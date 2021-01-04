@@ -35,4 +35,26 @@ https://davidaltizio.web.illinois.edu/Compilation_of_AIME_like_problems.pdf
 	2. Probably AIME 11.
 9. The central observation is not that hard to find, that all numbers divisible by 3 need to be in different sets. The ensuing casework isn't hard to find but is difficult to execute. Probably AIME 13-15.
 	1. Need to count all possible cases and check if they're supposed to be ordered or not.
-10. Haven't done yet, will fill in when I have
+10. I did do this but I'm not sure if I'm right or not
+## Geometry
+1. this is a mathcounts problem.
+2. I got stuck on this for a hilariously long time and I don't even know why. Let $M$ be the midpoing of $YZ$. Then $D$ sweeps out a circle of radius 1 centered at $M$. $PD$ is maximized whne $P,M,D$ are collinear.
+3. Straight pythag application that I think is around AIME 4-6.
+4. I used calculus although I don't think it's necessary. 
+	1. The actual solution used trig but screw all that
+		Let $O_1$ be the center of the first circle and $O_2$ be the center of the second circle. Also let $P_1$ be the projection of $O_1$ onto $XY$ and $P_2$ be the projection of $O_1$ onto $XY$. We know that $\angle O_1PP_1 + \angle O_2PP_2 = 90^\circ$. Let $P_1P = x$. Then, we know that $P_2P = \frac{12}{5} \sqrt{25-x^2}$. By maximizing the product $XP \cdot YP$, we want to find the maximum $P_1P \cdot P_2P$, because the former is just 4 times the latter.
+		Let $f(x) = x \cdot \frac{12}{5} \sqrt{25-x^2}$. We want to find the $x$ value such that $f(x)$ is maximized, or that $f'(x) = 0$. We find that $f'(x) = (x \cdot \dfrac{d\sqrt{25-x^2}}{dx} + \sqrt{25-x^2} \cdot 1)$. Since $\dfrac{d\sqrt{25-x^2}}{dx} = -\dfrac{1}{2\sqrt{25-x^2}} \cdot 2x = -\dfrac{x}{\sqrt{25-x^2}}$, we have that $f'(x) = \dfrac{-x^2}{\sqrt{25-x^2}}+\sqrt{25-x^2} = \dfrac{25-2x^2}{\sqrt{25-x^2}}$. Thus, $x$ must be $5\sqrt{2}$ because the only other solution is negative.
+		Plugging back in gives $P_1P \cdot P_2P = 30$, so $XP \cdot YP = \boxed{120}$. $\blacksquare$
+	
+5. Turn the slopes into arctangents and calculate the arctangents. This took stupidly long because I needed to use trig identities to simplify the calculation of arctans into something I can do on my calculator (which is allowed on mandelbrots).
+6. not done yet
+7. This one's also trig but it was a lot nicer than 5 (and 4?). Originally tried something with areas but that turned into something quite nasty; turns out that tangents were all I needed. Needed to remember another trig identity (tangent half angle and its various forms). Will need to look into this before the AMC 12 and AIME as it'll be useful there. I'm also spectacularly bad at trig, so this question took a lot of time and I can't give an objective difficulty rank.
+8. Found $AN$ with Law of Sines, and then found $AT$ using similar triangles. 
+	1. Always look for angle relations and similar triangles in a diagram.
+	2. Always find right angles because there are a multitude of properties involving them.
+	3. Remember Extended Law of Sines.
+9. Note that $\frac{2}{9}$ of a quadrilateral is clipped with `clip(quadrilateral)` and that $\frac{4}{81}$ of an octagon is clipped with `clip(octagon)`. Therefore, we can use Engineer's Induction to guess that a $4x$-gon will have $(\frac{2}{9})^x$ of itself clipped out.
+	1. Getting to the Engineer's Induction part is really hard because Engineer's Induction doesn't provide enough insurance that what I was doing actually worked. I spent way too much time trying to work through small cases to see a trend and didn't just go "just trust me bro" like earlier
+	2. Probably would've just gone "just trust me bro" during a contest
+	3. Also got tripped up by me forgetting the geometric series formula for 20 minutes and I'm ashamed of myself
+	4. This took like 2 hours and I don't know how.

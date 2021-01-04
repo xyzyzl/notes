@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CP/Contests/USACO DEC20 Gold.md",
-            "mode": "preview"
+            "file": "CP/General/Problem Solving Procedure.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CP/Contests/USACO DEC20 Gold.md",
+                "file": "CP/General/Problem Solving Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "CP/Contests/USACO DEC20 Gold.md",
-    "CP/CP Info.md",
-    "CP/Algorithms/strings/Untitled.md",
-    "CP/Algorithms/graphs/DSU.md",
-    "CP/Algorithms/graphs/Graphs.md",
+    "CP/General/Problem Solving Procedure.md",
+    "CP/Problems/CodeChef SUBSFREQ.md",
     "CP/Problems/Untitled.md",
-    "CP/Problems/idk source 4 (Balance Parentheses).md",
-    "README.md",
-    "CP/Algorithms/dp/Range DP.md",
-    "CP/Problems/idk source 3 (K Largest Segments).md"
+    "Math/General/Untitled.md",
+    "Math/Handouts/DJ 2015 AIME Practice Set.md",
+    "CP/Problems/CodeChef LEBLOCKS.md",
+    "CP/Algorithms/dp/DP.md",
+    "CP/Contests/Contests List.md",
+    "CP/CP Info.md",
+    "CP/General/Untitled.md"
   ]
 }
