@@ -1,4 +1,6 @@
 # CF Goodbye 2020
+Combined round, with divs. 1 and 2 both being rated for the same problems
+
 - Solved A and B quickly without any trouble
 - Got stuck on C for a bit, got WA
 - Solved D without much difficulty

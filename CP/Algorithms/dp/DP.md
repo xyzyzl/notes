@@ -7,4 +7,7 @@
 - [[idk source 2 (K kings)]]
 - [[idk source 3 (K Largest Segments)]]
 - [[CodeChef LEBLOCKS]]
+- [[CodeChef SUBSFREQ]]
+- [[CF 868E - Policeman and Tree]]
+- [[LC 1125-Smallest Sufficient Team]]
 - Check [[Range DP]]
